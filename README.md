@@ -1,0 +1,1 @@
+This is an awesome JWST-Inspired Galaxy Simulation using Three.js, combining procedural shaders and post-processing effects to create a dynamic, glowing nebulae field. The procedural nebula generation with varying color frequencies and amplitudes, along with the use of bloom and orbit controls, makes it visually stunning and highly interactive.
